@@ -1,0 +1,19 @@
+.parent{
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.left{
+    height: 100%;
+    width: 20%;
+    background-color: black;
+    color: azure;
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
